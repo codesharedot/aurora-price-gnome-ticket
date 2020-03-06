@@ -1,5 +1,8 @@
-# aurora price gnome ticket 
+# aurora gnome price ticker
 
-Gnome 3 desktop ticker for aurora price with Python and argos. Rename to aurora.1r.60s.py and put in ~/.config/argos
+Get aurora price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/aurora-price-gnome-ticket/](https://codesharedot.github.io/aurora-price-gnome-ticket/)
 
-https://pythonbasics.org
+aurora price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to aurora.1r60s.py and put in ~/.config/argos
